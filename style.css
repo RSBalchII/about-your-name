@@ -1,0 +1,30 @@
+img {
+    max-width: 300px;
+    height: auto;
+    background-color: #142f72;
+    border: 1px solid #ddd;
+    border-radius: 15px 25px 35px 45px/35px;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgba(93, 93, 100, 0.34);
+}
+
+p1 {
+    font-family: "Verdana", Arial, sans-serif;
+    scroll-snap-align: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px 25px 35px 45px/35px;
+}
+
+p {
+    text-align: center;
+    font-family: "Verdana", Arial, sans-serif;
+    border: 1px solid black;
+    border-radius: 15px 25px 35px 45px/35px;
+}
