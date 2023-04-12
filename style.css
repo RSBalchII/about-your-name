@@ -13,11 +13,12 @@ img {
 body {
     background-color: rgba(93, 93, 100, 0.34);
     border: groove;
-    border-radius: 30px 30px 30px;
+    border-radius: 30px;
 }
 
 h1 {
     text-align: center;
+    text-shadow: 3px 3px rgba(31, 31, 86, 0.34);
     line-height: 1.8;
     margin-left: 39.5%;
     margin-right: 40%;
@@ -37,5 +38,5 @@ p {
     font-family: "Orbitron", Arial, monospace;
     font-style: oblique;
     border-style: groove;
-    border-radius: 12px 12px 12px;
+    border-radius: 12px;
 }
