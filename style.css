@@ -3,7 +3,6 @@ img {
     height: auto;
     background-color: #145972;
     border: 1px solid #ddd;
-    border-radius: 20px 30px 40px 50px/40px;
     padding: 5px;
     display: block;
     margin-left: auto;
@@ -11,9 +10,8 @@ img {
 }
 
 body {
-    background-color: rgba(93, 93, 100, 0.34);
-    border-style:groove;
-    border-radius: 30px ;
+    background-color: silver;
+    border-style: inset;
 }
 
 h1 {
@@ -23,10 +21,10 @@ h1 {
     margin-left: 39.5%;
     margin-right: 40%;
     width: 20%;
-    font-size: 1.2rem;
-    font-family: "Orbitron", Arial, sans-serif;
-    border-style: groove;
-    border-radius: 15px 15px 15px 10px/20px;
+    font-size: 2rem;
+    font-family: "Andale Mono", serif;
+    color: darkviolet;
+    border-style: ridge;
 }
 
 p {
@@ -35,8 +33,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     font-size: 1rem;
-    font-family: "Orbitron", Arial, monospace;
-    font-style: oblique;
+    font-family: "Andale Mono", serif;
+    color: royalblue;
     border-style: groove;
-    border-radius: 12px;
 }
